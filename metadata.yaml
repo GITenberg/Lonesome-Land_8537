@@ -1,0 +1,38 @@
+_repo: Lonesome-Land_8537
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bower, B. M.
+    aliases:
+    - Sinclair, Bertha Muzzy
+    - Sinclair, B. M. (Bertha Muzzy)
+    birthdate: 1874
+    deathdate: 1940
+    gutenberg_agent_id: '275'
+    url: http://www.gutenberg.org/2009/agents/275
+description: 'Lonesome Land (1912) delicately balances an idealistic, romantic view
+  of the American West with its hard, gritty reality. Although focused on the West''s
+  often lonesome and open lifestyle, scenes of true Western-genre suspense appear
+  in this critical yet beautiful imaging of the land and its pioneers.<P style=MARGIN:
+  0in 0in 0pt> <P style=MARGIN: 0in 0in 0pt>Valeria Peyson has spent her life on the
+  East Coast and, therefore, holds a beautifully serene vision of the West in her
+  mind. But in relocating to Hope, Montana, she discovers the hardships of the West''s
+  remote, male-centered way of lifestarting with her marriage to a drunken failure,
+  Manley Fleetwood. The west, however, is not without the romantic aspect that Valeria
+  hoped to find. Coming to terms with both kinds of experience, she grows into a stronger
+  person.'
+gutenberg_bookshelf: Western
+gutenberg_issued: '2005-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8537'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Western stories'
+- !lcc 'PS'
+- GITenberg
+title: Lonesome Land
+url: http://www.gutenberg.org/ebooks/8537
