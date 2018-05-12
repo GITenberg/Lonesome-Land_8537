@@ -1,5 +1,8 @@
 _repo: Lonesome-Land_8537
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bower, B. M.
@@ -21,6 +24,8 @@ description: 'Lonesome Land (1912) delicately balances an idealistic, romantic v
   Manley Fleetwood. The west, however, is not without the romantic aspect that Valeria
   hoped to find. Coming to terms with both kinds of experience, she grows into a stronger
   person.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8537#Lonesome-Land
 gutenberg_bookshelf: Western
 gutenberg_issued: '2005-07-01'
 gutenberg_type: Text
